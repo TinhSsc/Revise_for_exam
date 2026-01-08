@@ -1,4 +1,4 @@
-# Revise_for_OPP_exam
+# Revise_for_exam
 - OOP: đóng gói, kế thừa, hợp thành, constructor, destructor
 - Thư viện & nhập xuất: iostream, string, math, time/ctime, getline, ignore, clear
 - Bộ nhớ & ép kiểu: con trỏ cấp 2, static_cast cha–con
